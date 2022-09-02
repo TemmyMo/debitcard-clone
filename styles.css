@@ -1,0 +1,60 @@
+
+
+body{
+    height: 100vh;
+    background: linear-gradient(
+        to right,
+        purple 0%,
+        purple 30%,
+        white 70%,
+        white 100%
+    );
+}
+
+.card-name{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.card-num{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.exp-date{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.cvc{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.button{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.card-name span{
+    color:red
+}
+.card-num span{
+    color: red;
+}
+.exp-date span{
+    color: red;
+}
+.cvc span{
+    color: red;
+}
+.button span{
+    color: red;
+}
+.card-name span i{
+    color: springgreen;
+}
+.card-num span i{
+    color: springgreen;
+}
+.exp-date span i{
+    color: springgreen;
+}
+.cvc span i{
+    color: springgreen;
+}
